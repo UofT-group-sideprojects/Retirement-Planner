@@ -1,0 +1,73 @@
+This is an Unconventional Living planner.
+Enter your income and age and this calculator will tell you how many years until you can be financially independent or
+How much you would have to save for "mini retirements". That is, taking every 4th year off of work.
+If no minimum budget is provided, the budget of $30,000 after tax will be used
+The amount that can and should be contributed to a TFSA every year is calculated, a map of each year will be printed.
+The amount that can and should be contributed to a RRSP every year is calculated, a map of each year will be printed.
+The amount that can and should be contributed to a Savings every year is calculated, a map of each year will be printed.
+
+Savings Methodology:
+Under $70,000 income, always contribute to TFSA first
+Above $70,000 income, contribute to RRSP first.
+Something to consider is that this might only be true with a savings rate of 1/3rd of your income. With more or less
+being saved it may differ.
+This is based off of http://www.moneyaftergraduation.com/2015/01/05/should-you-contribute-to-an-rrsp-or-tfsa/
+In the future this could be plugged into a TFSA vs RRSP calculator
+
+TFSA:
+counted into the annual income tax, no gains are taxed, no deduction when taking money out.
+This should be contributed too when you think you will be making more money later in life. (double check this statement)
+
+RRSP:
+A max of 18% of your annual income can be added, the contribution is tax exempt when contributed but taxed when taken
+out, unless a home is purchased with it (double check)
+To look into, are their significant deductions if money is removed before a certain age or retirement?
+$24270 is the max amount that can be contributed which it hit with an income of $130,000
+
+Savings:
+This is assumed to be fully taxed when you make it and annual interest is fully taxed as income
+
+Mini Retirements:
+Mini retirements are based around the idea of working for 3 years and taking the 4th year off. And repeating the cycle.
+Things to keep in mind is pension deduction based on working less years.
+Problems that cannot be accounted for is having a job that allows for this, or finding a new job every 4 years
+
+Financial Independence:
+Having enough money to not have to work again.
+(SWR) safe withdrawal rate is 4%, with inflation taken into account.
+
+Tax:
+    Quebec(2017):
+        Gross taxable income brackets	Marginal tax rates
+            14 890$ or less	                0%
+            14 890.01$ to 42 705$	        15%
+            de 42 705,01$ to 85 405$	    20%
+            de 85 405,01$ to 103 915$	    24%
+            103 915,01$ or more	            25.75%
+
+Pension Plans:
+    Deductions for early retirement:
+    Annual Contributions
+
+Annual Numbers that Change:
+-Federal and Provincial Income Tax
+-EI deduction rates and max
+-TFSA additional contribution space
+
+Assumptions:
+-No raise taken into account
+-Average return on investments is 9.5% (This has been calculated elsewhere, find link) issue it leads to is say the first
+5 years were - 11% and after that it was in the 20%s this affects the interest earned.
+-inflation is calculated as 3% per year
+-Assumes TFSA annual added contribution is $5500
+-Taxed as Single
+-Taxes remain the same annually
+-Assumes money paid in tax is never overpaid, therefore not tax return
+-Assumption that EI deduction stays the same for every year to come
+-4% inflation annually
+
+Known Errors:
+-TFSA room eligibility could be off by one year due to your Birthday
+
+Possible Errors:
+-Is the initial amount in savings counted as being contributed every year?
