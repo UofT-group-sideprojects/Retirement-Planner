@@ -31,9 +31,9 @@ More info on Financial Independence: https://www.reddit.com/r/financialindepende
     &emsp; -Connect to an API in Python (I have code for this that I will upload) <br>
 </p>
 
-<h2>Trello Board</h2>
+<h2>Project Board</h2>
 <p>
-https://trello.com/b/99GM4D3C  <br>
+https://github.com/orgs/UofT-group-sideprojects/projects/1  <br>
 </p>
 <h2>Contact</h2>
 <p>
