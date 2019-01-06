@@ -1,3 +1,4 @@
+""" Calculate the Deductions made on income"""
 class Deductions:
 
     def __init__(self, income, province, self_employed):
